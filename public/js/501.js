@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[501],{6501:(e,t,n)=>{n.r(t),n.d(t,{default:()=>u});const l={name:"Template",data:function(){return{title:"",sub_title:""}}};const u=(0,n(1900).Z)(l,(function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("router-view")],1)}),[],!1,null,null,null).exports}}]);

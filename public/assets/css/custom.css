@@ -1,0 +1,52 @@
+
+@media only screen and (max-width: 600px) {
+    .is-mobile {
+        visibility: hidden;
+    }
+}
+
+.header-text {
+    margin-top: 8px !important;
+}
+
+.header-subtext {
+    color: #90a4ae;
+}
+
+.warning-list {
+    margin-left: -10px;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+label {
+    margin-bottom: 5px;
+}
+
+.is-invalid>.multiselect__tags {
+    border: 1px solid #EA5455 !important;
+}
+.is-valid>.multiselect__tags {
+    border: 1px solid #28C76F !important;
+}
+
+.vgt-table thead th {
+    font-size: 12px !important;
+}
+
+.card {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+
+.pgTble td,
+.pgTble th {
+    font-size: 14px;
+    vertical-align: middle !important;
+    /* text-align: center; */
+}
+
+.pointer {
+    cursor: pointer;
+}

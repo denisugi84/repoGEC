@@ -1,0 +1,16 @@
+export default {
+    id: '',
+    nopeg: '',
+    no_anggota: '',
+    is_kpk: 'n',
+    nama: '',
+    nopeg: '',
+    dinas: '',
+    unit: '',
+    title: '',
+    email: '',
+    phone: '',
+    tanggal_daftar: '',
+    tanggal_lahir: '',
+    tempat_lahir: '',
+}
